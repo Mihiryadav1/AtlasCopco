@@ -1,0 +1,22 @@
+.header-container, .background-green {
+    background-color: #054F5A;
+    color: white;
+}
+
+.background-gray {
+    background-color: #E2E8F0;
+}
+
+.right {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.sidebar-links:hover {
+    background-color: #054F5A;
+}
+
+.sidebar-links {
+    color: #054F5A;
+}
